@@ -1,0 +1,4 @@
+dtparam=spi=on
+dtparam=i2c1=on
+dtparam=i2c_arm=on
+dtoverlay=waveshare35a:rotate=180,fps=90
